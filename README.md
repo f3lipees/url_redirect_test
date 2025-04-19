@@ -16,8 +16,10 @@
 
         python redirecttest.py https://t.co/exemple
         
+        
+![redirect](https://github.com/user-attachments/assets/43c27522-a13e-4978-8c69-effa3bfbe2bd)
 
- ![print_image](https://github.com/user-attachments/assets/76572320-433e-4de2-a20f-b8ae814948c4)
+
        
 
 # Options
