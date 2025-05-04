@@ -179,6 +179,8 @@ def display_results(results, cookies, args, console):
         console.print(f"\n[green]Results saved to {args.output}[/]")
 
 def save_results(results, cookies, output_file):
+    if '../' in output_file or '..\\' in output_file:
+        raise Exception('Invalid file path')
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write("=== Redirect Analysis Results ===\n\n")
         f.write(f"Original URL: {results[0]['url']}\n")
