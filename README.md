@@ -17,11 +17,11 @@
         python redirecttest.py https://t.co/exemple
         
         
-![redirect](https://github.com/user-attachments/assets/43c27522-a13e-4978-8c69-effa3bfbe2bd)
+![redirecttest](https://github.com/user-attachments/assets/21d8de7a-6305-42bd-8986-1c64c2a2113b)
+
 
 
        
-
 # Options
         -o, --output       Save results to specified file
         -v, --verbose      Show verbose output (detect JS/meta redirects)
